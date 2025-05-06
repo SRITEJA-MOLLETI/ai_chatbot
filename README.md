@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Overview
-The **GenAI Document Chatbot** allows users to upload PDFs and interactively ask questions about the document contents through a responsive chat interface. Using a **Retrieval-Augmented Generation (RAG)** architecture, it performs fast semantic search with **FAISS** and generates contextually grounded answers in real-time using the **Groq API** for LLM inference. The app runs seamlessly in an intuitive **Streamlit** web interface.
+The **DocuMuse** allows users to upload PDFs and interactively ask questions about the document contents through a responsive chat interface. Using a **Retrieval-Augmented Generation (RAG)** architecture, it performs fast semantic search with **FAISS** and generates contextually grounded answers in real-time using the **Groq API** for LLM inference. The app runs seamlessly in an intuitive **Streamlit** web interface.
 
 ---
 
