@@ -1,4 +1,4 @@
-# GenAI Document Chatbot
+# DocuMuse: GenAI Document Chatbot
 
 **Real-time Document Querying with Groq API, FAISS, and Streamlit**
 
